@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: HelloGenericApp
+
+#opentracing:
+#  jaeger:
+#    http-sender:
+#      url: http://150.136.181.85:14268/api/traces
